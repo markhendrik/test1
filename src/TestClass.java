@@ -7,5 +7,6 @@ public class TestClass {
 		System.out.println(a + b);
 		
 		int intA = 5;
+		int intB = 6;
 	}
 }
