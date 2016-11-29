@@ -5,5 +5,7 @@ public class TestClass {
 		String b = " maailm";
 		
 		System.out.println(a + b);
+		
+		int intA = 5;
 	}
 }
